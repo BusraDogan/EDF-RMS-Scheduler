@@ -9,4 +9,4 @@ To run project;
 - Now you can see the scheduling results and graphics for the EDF and RMS.
 
 - For the follow logs run the below command;
-- -java -jar
+- java -jar
